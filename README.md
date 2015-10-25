@@ -1,4 +1,5 @@
 Stacey Dean Product Management
+------------------------------
 
 StaceyDean.ca
 
@@ -35,5 +36,4 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Credits
 -------
 Developed by Hannah Suarez (http://www.hannahsuarez.me)
-
 
