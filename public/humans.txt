@@ -3,13 +3,14 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+  Stacey Dean Product Management
+  Site: StaceyDean.ca
+  LinkedIn: https://ca.linkedin.com/in/staceydean
+  Location: Canada, Remote
 
 /* THANKS */
   Daniel Kehoe (@rails_apps) for the RailsApps project
+  Hannah Suarez (hannahsuarez.me) for developing the site
 
 /* SITE */
   Standards: HTML5, CSS3
